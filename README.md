@@ -41,7 +41,7 @@ python train.py
 mlflow ui --backend-store-uri sqlite:///mlflow.db
 ```
 
-Then open <http://127.0.0.1:5000>, choose the experiment
+Then open <http://127.0.0.1:5001>, choose the experiment
 `california-housing-price-prediction`, tick the three runs and click **Compare**.
 The UI can take a few seconds to start.
 
