@@ -49,14 +49,11 @@ Tested with Python 3.12, `mlflow` 3.17.0 and `scikit-learn` 1.9.1.
 
 ## 3. MLflow experiment results
 
-> TODO: replace this line with your own screenshot of the MLflow UI runs table.
 
 ![MLflow experiment results](screenshots/mlflow-experiment-results.png)
 
 ## 4. Comparison table
 
-> TODO: paste the table printed by your own `python train.py` run over this one, and update the
-> numbers quoted in section 6 if they differ.
 
 | Run | Max Depth | Learning Rate | RMSE | MAE | R² |
 |-----|-----------|---------------|------|-----|----|
